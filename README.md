@@ -14,7 +14,7 @@ Here we want to see whether we can train only one prey leader to guide a whole h
 
 Only one prey leader is the RL agent, and the rest of the prey agents form a herd by the BOID algorithm. 
 
-If the predator kills the prey leader, the predator will stop momentarily (about 1.5 seconds) to simulate the action of "eating the prey", and this pause also gives the prey herd to manoeuvre away from the predator.
+If the predator captures the prey leader, the predator will stop momentarily (about 1.5 seconds) to simulate the action of "eating the prey", and this pause also gives the prey herd to manoeuvre away from the predator.
 
 ## How to use
 Run agent.py under custom_env to train a custom model in the standalone environment.
