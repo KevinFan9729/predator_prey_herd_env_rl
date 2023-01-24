@@ -1,4 +1,4 @@
-# predator and RL prey_herd
+# predator and RL prey herd
 An environment of predator and prey herd and reinforcement learning 
 
 ## What this is 
